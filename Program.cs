@@ -1,7 +1,7 @@
 ﻿using System.Diagnostics.CodeAnalysis;
 using System.Runtime.InteropServices;
 
-namespace Aula01variaveis
+namespace Aula01variaveis //nome do projeto
 {
     public class Program
     {
